@@ -2,6 +2,9 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 # 🌟 Bollywoodmusicsupport Telegram VC Music Bot  
 
+# 🌟 AloneX Telegram VC Music Bot  
+
+![Team Logo](https://i.ibb.co/zW3bDkSz/x.jpg)
 AloneX is a powerful and simple **Telegram VC Music Bot** written in Python, using [PyTgCalls](https://github.com/adityabty/Aditya_x_musicbot.git).  
 It lets you **play music in Telegram Group Voice Chats** directly from **YouTube, Spotify, Resso, Apple Music, and SoundCloud**.  
 
