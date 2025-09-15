@@ -18,6 +18,9 @@ It lets you **play music in Telegram Group Voice Chats** directly from **YouTube
 - 🖤 User-friendly commands & inline buttons  
 
 ---
+# 🌟 Bollywoodmusicsupport Telegram VC Music Bot telegram support 
+
+[![Team Logo](https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-)](https://t.me/bollywoodmusicsupport1)
 
 ## 🛠️ Deployment  
 
