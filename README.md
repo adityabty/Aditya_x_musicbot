@@ -22,7 +22,7 @@ It lets you **play music in Telegram Group Voice Chats** directly from **YouTube
 ```bash
 # Clone the repo
 git clone https://github.com/TeamAloneOp/AloneX.git
-cd AloneX
+cd AdityaX
 
 # Install requirements
 pip3 install -r requirements.txt
