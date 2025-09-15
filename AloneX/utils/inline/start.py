@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["S_B_7"], callback_data="https://github.com/adityabty/Aditya_x_musicbot.git"),
+            InlineKeyboardButton(text=_["S_B_7"], callback_data="git_soruce"),
             InlineKeyboardButton(
                        text="˹ 𝐎ᴡɴᴇʀ ˼", user_id=config.OWNER_ID
                     ),
