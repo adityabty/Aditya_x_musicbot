@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["REPO OF ADITYA"], URL="https://github.com/adityabty/Aditya_x_musicbot.git"),
+            #InlineKeyboardButton(text=_["REPO OF ADITYA"], URL="https://github.com/adityabty/Aditya_x_musicbot.git"),
             InlineKeyboardButton(
                        text="˹ 𝐎ᴡɴᴇʀ ˼", user_id=config.OWNER_ID
                     ),
